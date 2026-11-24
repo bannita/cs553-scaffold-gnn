@@ -1,9 +1,6 @@
 """
-Self-test for harness.py. Run it in Colab or locally with:
-
-    python test_harness.py
-
-It uses a temporary folder, so it never touches your real results/ or predictions/.
+Self-test for harness.py. Run it in Colab or locally with: python test_harness.py
+Uses a temporary folder, so it never touches real results/ or predictions/.
 """
 import tempfile
 from pathlib import Path
