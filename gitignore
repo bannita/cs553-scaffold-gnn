@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+# results, predictions, data and checkpoints live on the shared Drive, not in git
+results/
+predictions/
+data/
+checkpoints/
+*.pt
+*.pth
+*.npz
